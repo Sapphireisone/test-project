@@ -1,0 +1,10 @@
+{
+  "level": 12,
+  "num": 13,
+  "soon": 1,
+  "common": {
+    "setting1": "Value 1",
+    "setting2": 2,
+    "setting3": true
+    }
+  }
