@@ -1,10 +1,13 @@
 {
   "level": 12,
-  "num": 14,
+  "num": "14",
   "soon": 1,
   "common": {
     "setting1": "Value 1",
     "setting2": 2,
-    "setting3": true
+    "set3": true,
+    "FFF": {
+      "AAA": 4
+      }
     }
   }

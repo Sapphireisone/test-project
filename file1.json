@@ -3,8 +3,11 @@
   "num": 12,
   "zoom": 4,
   "common": {
-    "setting1": "Value 1",
+    "set1": "Value 1",
     "setting2": 200,
-    "setting3": true
+    "setting3": true,
+    "FFF": {
+      "OOO": 4
+      }
     }
-  }
+}
