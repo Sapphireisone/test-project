@@ -21,7 +21,7 @@ def gendiff(file1, file2, res=[], str=''):
             else:
                 if file1.get(key) == file2.get(key):
                     result['attribute'] = f'{str}{key}'
-                    result['type'] = 'not changed'
+                    result['type'] = 'unchanged'
                     result['value'] = file1[key]
                 else:
                     result['attribute'] = f'{str}{key}'
